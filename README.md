@@ -13,6 +13,10 @@ A curated directory of high-quality plugins for Claude Code.
 
 Plugins can be installed directly from this marketplace via Claude Code's plugin system.
 
+To install, run `/plugin install {plugin-name}@claude-plugin-directory`
+
+or browse for the plugin in `/plugin > Discover`
+
 ## Contributing
 
 ### Internal Plugins
